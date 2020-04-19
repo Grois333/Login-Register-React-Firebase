@@ -36,3 +36,56 @@
     transform: rotate(360deg);
   }
 }
+
+
+.bzCcAJ{
+  margin-top: 50px;
+  text-align: center !important;
+}
+
+.fBKPQc{
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.fBKPQc a{
+  text-decoration: none;
+  color: black;
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.dkONlb{
+  display: block !important;
+}
+
+.bzCcAJ{
+  margin: 0 auto !important;
+  text-align: center !important;
+  width: 500px !important;
+}
+
+.bUmnLy{
+  text-align: center;
+
+}
+
+.bUmnLy{
+
+  margin-top: 20px !important;
+
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+  border: 1px solid lightgray !important;
+}
+
+.crfPwD{
+  margin-top: 20px !important;
+  cursor: pointer;
+}
+
+.logout{
+  position: absolute;
+  right: 0;
+  margin-right: 20px !important;
+}
